@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="Mannschaften">
+        <item>Overview</item>
+        <item>D_Mannschaft1</item>
+        <item>D_Mannschaft2</item>
+        <item>D_Mannschaft3</item>
+        <item>D_Mannschaft4</item>
+        <item>H_Mannschaft1</item>
+        <item>H_Mannschaft2</item>
+        <item>H_Mannschaft3</item>
+        <item>H_Mannschaft4</item>
+        <item>H_Mannschaft5</item>
+    </array>
+
+
+    <array name="Overview">
+        <item>Übersicht</item>                          <!-- Damen oder Herren -->
+        <item>Übersicht</item>                   <!-- Mannschaft -->
+        <item>BSC Rapid</item>                   <!-- Verein + MannschaftsID -->
+        <item>http://chemnitz-stadt.tischtennislive.de/Export/default.aspx?SpartenID=1092&amp;Format=XML&amp;SportArt=96&amp;Area=PlanLast</item>                   <!-- Verein + MannschaftsID -->
+        <item>PLACEHOLDER</item>                   <!-- Verein + MannschaftsID -->
+        <item>PLACEHOLDER</item>                   <!-- Verein + MannschaftsID -->
+        <item>PLACEHOLDER</item>                   <!-- Verein + MannschaftsID -->
+        <item>"0"</item>                   <!-- Verein + MannschaftsID -->
+        <item>PLACEHOLDER</item>                   <!-- Verein + MannschaftsID -->
+    </array>
+
+
+    <array name="D_Mannschaft1">
+        <item>Damen</item>                          <!-- Damen oder Herren -->
+        <item>Mannschaft 1</item>                   <!-- Mannschaft -->
+        <item>Rapid Kappel</item>                   <!-- Verein + MannschaftsID -->
+        <item>www.google.de</item>                  <!-- Link für Spielverlauf -->
+        <item>ic_damen_1.png</item>                 <!-- Image für Fragment -->
+        <item>ic_looks_one_grey600_36dp</item>      <!-- Image für NavDrawer -->
+        <item>Damen</item>                          <!-- Damen oder Herren (useless) -->
+        <item>"1"</item>                            <!-- ID -->
+        <item></item>                               <!-- Link für Tabelle -->
+    </array>
+
+    <array name="D_Mannschaft2">
+        <item>Damen</item>
+        <item>Mannschaft 2</item>
+        <item>BSC Rapid Chemnitz 2</item>
+        <item>http://sttv.tischtennislive.de/Export/default.aspx?LigaID=6573&amp;Format=XML&amp;SportArt=96&amp;Area=Spielplan&amp;Runde=1</item>
+        <item>ic_damen_1.png</item>
+        <item>ic_looks_two_grey600_36dp</item>
+        <item>Damen</item>
+        <item>"2"</item>
+        <item>http://sttv.tischtennislive.de/Export/default.aspx?LigaID=6573&amp;Format=XML&amp;SportArt=96&amp;Area=Tabelle</item>
+    </array>
+
+    <array name="D_Mannschaft3">
+        <item>Damen</item>
+        <item>Mannschaft 3</item>
+        <item>BSC Rapid Chemnitz 3</item>
+        <item>http://chemnitz-stadt.tischtennislive.de/Export/default.aspx?LigaID=6308&amp;Format=XML&amp;SportArt=96&amp;Area=Spielplan&amp;Runde=1</item>
+        <item>ic_damen_1.png</item>
+        <item>ic_looks_3_grey600_36dp</item>
+        <item>Damen</item>
+        <item>"3"</item>
+        <item>http://sttv.tischtennislive.de/Export/default.aspx?LigaID=6308&amp;Format=XML&amp;SportArt=96&amp;Area=Tabelle</item>
+    </array>
+
+    <array name="D_Mannschaft4">
+        <item>Damen</item>
+        <item>Mannschaft 4</item>
+        <item>BSC Rapid Chemnitz 4</item>
+        <item>http://sttv.tischtennislive.de/Export/default.aspx?LigaID=6367&amp;Format=XML&amp;SportArt=96&amp;Area=Spielplan&amp;Runde=1</item>
+        <item>ic_damen_1.png</item>
+        <item>ic_looks_4_grey600_36dp</item>
+        <item>Damen</item>
+        <item>"4"</item>
+        <item>http://sttv.tischtennislive.de/Export/default.aspx?LigaID=6367&amp;Format=XML&amp;SportArt=96&amp;Area=Tabelle</item>
+    </array>
+
+
+    <array name="H_Mannschaft1">
+        <item>Herren</item>
+        <item>Mannschaft 1</item>
+        <item>BSC Rapid Chemnitz</item>
+        <item>http://chemnitz.tischtennislive.de/Export/default.aspx?LigaID=6309&amp;Format=XML&amp;SportArt=96&amp;Area=Spielplan&amp;Runde=1</item>
+        <item>ic_damen_1.png</item>
+        <item>ic_looks_one_grey600_36dp</item>
+        <item>Herren</item>
+        <item>"5"</item>
+        <item>http://chemnitz.tischtennislive.de/Export/default.aspx?LigaID=6309&amp;Format=XML&amp;SportArt=96&amp;Area=Tabelle</item>
+    </array>
+
+    <array name="H_Mannschaft2">
+        <item>Herren</item>
+        <item>Mannschaft 2</item>
+        <item>BSC Rapid Chemnitz 2</item>
+        <item>http://chemnitz.tischtennislive.de/Export/default.aspx?LigaID=6310&amp;Format=XML&amp;SportArt=96&amp;Area=Spielplan&amp;Runde=1</item>
+        <item>ic_damen_1.png</item>
+        <item>ic_looks_two_grey600_36dp</item>
+        <item>Herren</item>
+        <item>"6"</item>
+        <item>http://chemnitz.tischtennislive.de/Export/default.aspx?LigaID=6310&amp;Format=XML&amp;SportArt=96&amp;Area=Tabelle</item>
+    </array>
+
+    <array name="H_Mannschaft3">
+        <item>Herren</item>
+        <item>Mannschaft 3</item>
+        <item>BSC Rapid Chemnitz 3</item>
+        <item>http://chemnitz.tischtennislive.de/Export/default.aspx?LigaID=6472&amp;Format=XML&amp;SportArt=96&amp;Area=Spielplan&amp;Runde=1</item>
+        <item>ic_damen_1.png</item>
+        <item>ic_looks_3_grey600_36dp</item>
+        <item>Herren</item>
+        <item>"7"</item>
+        <item>http://chemnitz.tischtennislive.de/Export/default.aspx?LigaID=6472&amp;Format=XML&amp;SportArt=96&amp;Area=Tabelle</item>
+    </array>
+
+    <array name="H_Mannschaft4">
+        <item>Herren</item>
+        <item>Mannschaft 4</item>
+        <item>BSC Rapid Chemnitz 4</item>
+        <item>http://chemnitz-stadt.tischtennislive.de/Export/default.aspx?LigaID=6410&amp;Format=XML&amp;SportArt=96&amp;Area=Spielplan&amp;Runde=1</item>
+        <item>ic_damen_1.png</item>
+        <item>ic_looks_4_grey600_36dp</item>
+        <item>Herren</item>
+        <item>"8"</item>
+        <item>http://chemnitz-stadt.tischtennislive.de/Export/default.aspx?LigaID=6410&amp;Format=XML&amp;SportArt=96&amp;Area=Tabelle</item>
+    </array>
+
+    <array name="H_Mannschaft5">
+        <item>Herren</item>
+        <item>Mannschaft 5</item>
+        <item>BSC Rapid Chemnitz 5</item>
+        <item>http://chemnitz-stadt.tischtennislive.de/Export/default.aspx?LigaID=6412&amp;Format=XML&amp;SportArt=96&amp;Area=Spielplan&amp;Runde=1</item>
+        <item>ic_damen_1.png</item>
+        <item>ic_looks_5_grey600_36dp</item>
+        <item>Herren</item>
+        <item>"9"</item>
+        <item>http://chemnitz-stadt.tischtennislive.de/Export/default.aspx?LigaID=6412&amp;Format=XML&amp;SportArt=96&amp;Area=Tabelle</item>
+    </array>
+</resources>
