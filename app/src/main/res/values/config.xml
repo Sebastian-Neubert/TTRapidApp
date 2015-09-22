@@ -30,13 +30,13 @@
     <array name="D_Mannschaft1">
         <item>Damen</item>                          <!-- Damen oder Herren -->
         <item>Mannschaft 1</item>                   <!-- Mannschaft -->
-        <item>Rapid Kappel</item>                   <!-- Verein + MannschaftsID -->
-        <item>www.google.de</item>                  <!-- Link für Spielverlauf -->
+        <item>BSC Rapid Chemnitz</item>                   <!-- Verein + MannschaftsID -->
+        <item>http://ueberregional.tischtennislive.de/Export/default.aspx?LigaID=6926&amp;Format=XML&amp;SportArt=96&amp;Area=Spielplan&amp;Runde=1</item>                  <!-- Link für Spielverlauf -->
         <item>ic_damen_1.png</item>                 <!-- Image für Fragment -->
         <item>ic_looks_one_grey600_36dp</item>      <!-- Image für NavDrawer -->
         <item>Damen</item>                          <!-- Damen oder Herren (useless) -->
         <item>"1"</item>                            <!-- ID -->
-        <item></item>                               <!-- Link für Tabelle -->
+        <item>http://ueberregional.tischtennislive.de/Export/default.aspx?LigaID=6926&amp;Format=XML&amp;SportArt=96&amp;Area=Tabelle</item>                               <!-- Link für Tabelle -->
     </array>
 
     <array name="D_Mannschaft2">
